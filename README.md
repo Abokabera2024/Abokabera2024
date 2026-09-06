@@ -21,21 +21,15 @@ My work focuses on translating forensic expertise into practical, auditable tool
 - Python and MATLAB application development
 - Academic research, professional training, and technical consultancy
 
-## Selected platforms
+## Private projects and platforms
 
-### ForenSight
+- **ForenSight**
+- **SAMA Signature Intelligence™**
+- **FraudLab**
 
-A bilingual knowledge and intelligence platform covering forensic document examination, signature security, digital investigations, cybersecurity, banking fraud, and emerging AI tools.
+*Private projects and platforms; names are listed for professional identification only.*
 
-### SAMA Signature Intelligence™
-
-An offline explainable-AI system supporting forensic signature examination, including Arabic-script signatures. Public information is intentionally limited to protect registered intellectual property and confidential implementation details.
-
-### FraudLab
-
-An interactive professional training platform built around realistic banking-fraud scenarios for operational teams, risk functions, investigators, and security professionals.
-
-## Selected research and development
+## Public projects and research
 
 | Project | Focus | Explore |
 | --- | --- | --- |
