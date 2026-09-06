@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dr. Zakaria Abokabera — Forensic Science and Explainable AI</title>
+  <desc id="desc">Professional banner for forensic document examination, explainable AI, and digital evidence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a2b"/>
+      <stop offset="0.55" stop-color="#0b3954"/>
+      <stop offset="1" stop-color="#0b6b75"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38d6c9"/>
+      <stop offset="1" stop-color="#7ae7ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <circle cx="1080" cy="55" r="145" fill="#32d4c5" opacity="0.08"/>
+  <circle cx="1100" cy="260" r="190" fill="#69dfff" opacity="0.06"/>
+  <path d="M0 272 C250 225 410 315 650 255 S1010 205 1200 245 V320 H0Z" fill="#071522" opacity="0.72"/>
+  <rect x="62" y="55" width="7" height="205" rx="3.5" fill="url(#accent)"/>
+
+  <text x="94" y="78" fill="#7ae7ff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.4">FORENSIC SCIENCE • EXPLAINABLE AI • DIGITAL EVIDENCE</text>
+  <text x="92" y="143" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700">Dr. Zakaria Abokabera</text>
+  <text x="94" y="185" fill="#d8f5f6" font-family="Arial, Helvetica, sans-serif" font-size="23">Senior Forensic Document Examiner &amp; Forensic AI Developer</text>
+  <text x="94" y="232" fill="#9fdcdf" font-family="Arial, Helvetica, sans-serif" font-size="18">ForenSight  |  SAMA Signature Intelligence™  |  FraudLab</text>
+
+  <g transform="translate(870 63)">
+    <rect x="0" y="0" width="205" height="154" rx="15" fill="#ffffff" opacity="0.09" stroke="#8eeef0" stroke-width="2"/>
+    <rect x="24" y="27" width="72" height="7" rx="3.5" fill="#89e5e6" opacity="0.75"/>
+    <rect x="24" y="47" width="130" height="5" rx="2.5" fill="#ffffff" opacity="0.32"/>
+    <rect x="24" y="62" width="108" height="5" rx="2.5" fill="#ffffff" opacity="0.24"/>
+    <path d="M24 112 C43 88 57 134 78 105 S111 86 127 112 S155 132 181 96" fill="none" stroke="#62e2d5" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="181" cy="96" r="5" fill="#7ae7ff"/>
+  </g>
+
+  <g opacity="0.8">
+    <circle cx="1112" cy="238" r="31" fill="none" stroke="#7ae7ff" stroke-width="2"/>
+    <circle cx="1112" cy="238" r="19" fill="none" stroke="#7ae7ff" stroke-width="2" stroke-dasharray="4 5"/>
+    <path d="M1098 239 l9 9 19-22" fill="none" stroke="#7ae7ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <ellipse cx="965" cy="240" rx="115" ry="17" fill="#35d5c8" opacity="0.12" filter="url(#glow)"/>
+</svg>
