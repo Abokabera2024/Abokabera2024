@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-banner.svg" alt="Dr. Zakaria Abokabera" width="100%">
+</p>
+
 Dr. Zakaria Abokabera
 Senior Forensic Document Examiner · Forensic AI Developer · Researcher · Professional Trainer
 I combine more than 19 years of forensic practice with applied research and software development in questioned documents, signature examination, document security, banking fraud, digital evidence, and explainable artificial intelligence.
